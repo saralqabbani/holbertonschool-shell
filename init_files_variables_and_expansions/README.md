@@ -8,4 +8,5 @@
 5-local_variables: Lists all local variables, environment variables, and shell functions
 6-create_local_variable: Creates a local variable named BEST with the value School
 7-create_global_variable: Creates an environment variable named BEST with the value School
-8-true_knowledge: Adds 128 to the value of the TRUEKNOWLEDGE environment variable and prints the result.........
+8-true_knowledge: Adds 128 to the value of the TRUEKNOWLEDGE environment variable and prints the result
+9-divide_and_rule: Divides POWER by DIVIDE and prints the result..........
