@@ -1,3 +1,4 @@
+
 # Shell, init files, variables and expansions
 
 0-alias: Creates an alias named ls that runs rm -f *
@@ -10,4 +11,5 @@
 7-create_global_variable: Creates an environment variable named BEST with the value School
 8-true_knowledge: Adds 128 to the value of the TRUEKNOWLEDGE environment variable and prints the result
 9-divide_and_rule: Divides POWER by DIVIDE and prints the result
-10-love_exponent_breath: Calculates BREATH raised to the power of LOVE...........
+10-love_exponent_breath: Calculates BREATH raised to the power of LOVE
+11-binary_to_decimal: Converts a binary number stored in BINARY to decimal.
