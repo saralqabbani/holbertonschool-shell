@@ -13,4 +13,5 @@
 9-divide_and_rule: Divides POWER by DIVIDE and prints the result
 10-love_exponent_breath: Calculates BREATH raised to the power of LOVE
 11-binary_to_decimal: Converts a binary number stored in BINARY to decimal
-12-combinations: Prints all two-letter combinations from aa to zz, excluding oo..
+12-combinations: Prints all two-letter combinations from aa to zz, excluding oo
+13-print_float: Prints the NUM environment variable with two decimal places...
